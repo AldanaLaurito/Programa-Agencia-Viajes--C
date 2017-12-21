@@ -1,0 +1,17 @@
+En una agencia de viajes se venden diferentes paquetes turísticos para los destinos según la siguiente tabla:
+
+Destino		Precio		Período
+Vancouver	u$s 2.000.-	10 días
+Glasgow		u$s 3.000.-	7 días
+Berlín		u$s 2.500.-	7 días
+
+
+	Se entiende que el paquete es válido sólo por persona y si la cantidad de personas que viajan es mayor a dos se realiza un descuento del 20%.
+	Si el destino solicitado es Berlín se hace un descuento adicional de 15%.
+	Para ingresar la venta se pide el código de paquete y a lo cual si se ingresa cero se realiza el cierre del día.
+
+Realizar un sistema que muestre:
+	Cantidad total de cada paquete vendido.
+	Cantidad total de paquetes vendidos.
+	Recaudado por cada tipo de paquete.
+	Recaudado total.
